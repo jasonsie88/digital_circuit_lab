@@ -1,0 +1,7 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+			            INPUTS                      REAL    OUTPUT  
+
+			    OPCODE   DATA IN    ACCUM IN      ALU OUT   ZERO BIT
+			    ------   --------   --------      --------  --------
+ABS OPERATION       :      101     00000000   00000000  |   00000000      1
